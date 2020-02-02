@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="net.thucydides.core.annotations.findby.By"/>
+<fullyQualifiedTypeName name="net.thucydides.core.annotations.Managed"/>
+<fullyQualifiedTypeName name="net.serenitybdd.junit.runners.SerenityRunner"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="net.serenitybdd.core.pages.PageObject"/>
+<fullyQualifiedTypeName name="net.serenitybdd.core.pages.WebElementFacade"/>
+</qualifiedTypeNameHistroy>
